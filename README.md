@@ -1,4 +1,4 @@
-# santu_testbot - chat bot
+# PAYTM-QR-PAY-BOT - chat bot
 It is repository for chat bot: [@santu_testbot](https://t.me/santu_testbot)
 
 ## What it is?
